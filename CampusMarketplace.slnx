@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CampusMarketplace.Tests/CampusMarketplace.Tests.csproj" />
+  <Project Path="CampusMarketplace.Web/CampusMarketplace.Web.csproj" />
+</Solution>
